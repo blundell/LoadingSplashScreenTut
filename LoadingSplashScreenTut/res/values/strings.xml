@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SplashActivity!</string>
+    <string name="app_name">LoadingSplashScreenTut</string>
+    <string name="activity_splash_title_line_one">LOADING</string>
+    <string name="activity_splash_title_line_two">SPLASH SCREEN</string>
+    <string name="activity_splash_title_line_three">TUTORIAL</string>
+    <string name="activity_main_made_it">You did it!</string>
+
+</resources>
